@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "61+1tCmXPiodkr6/W/I4At8V5bTfpNsDqc6ZeD2xATY=",
+  "Source": "getDataFromJsonFile",
+  "BasePath": "_content/getDataFromJsonFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

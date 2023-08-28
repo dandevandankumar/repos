@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "RrRH/FsE9bzwN3xoolYIRxlnVKDIFeq10kGrh7X4xHw=",
+  "Source": "FileUploadApi",
+  "BasePath": "_content/FileUploadApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileUploadApi\\wwwroot",
+      "Source": "FileUploadApi",
+      "ContentRoot": "C:\\Users\\Vandan Kumar Dande\\source\\repos\\FileUploadApi\\FileUploadApi\\FileUploadApi\\wwwroot\\",
+      "BasePath": "_content/FileUploadApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vandan Kumar Dande\\source\\repos\\FileUploadApi\\FileUploadApi\\FileUploadApi\\wwwroot\\users\\posts\\123\\codingsonata-logo_8821.png",
+      "SourceId": "FileUploadApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vandan Kumar Dande\\source\\repos\\FileUploadApi\\FileUploadApi\\FileUploadApi\\wwwroot\\",
+      "BasePath": "_content/FileUploadApi",
+      "RelativePath": "users/posts/123/codingsonata-logo_8821.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users\\posts\\123\\codingsonata-logo_8821.png"
+    },
+    {
+      "Identity": "C:\\Users\\Vandan Kumar Dande\\source\\repos\\FileUploadApi\\FileUploadApi\\FileUploadApi\\wwwroot\\users\\posts\\123\\flower_5e27.jpg",
+      "SourceId": "FileUploadApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vandan Kumar Dande\\source\\repos\\FileUploadApi\\FileUploadApi\\FileUploadApi\\wwwroot\\",
+      "BasePath": "_content/FileUploadApi",
+      "RelativePath": "users/posts/123/flower_5e27.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users\\posts\\123\\flower_5e27.jpg"
+    }
+  ]
+}
